@@ -1,4 +1,5 @@
+<<<<<<< HEAD
 #Git Hub Action Status.
-
-This is the first github project
-
+=======
+# Git Hub Action Status
+>>>>>>> b18116f269379d73ffc16afabc19a63df603a6c8
